@@ -24,6 +24,7 @@ Button and Labels:
 
 A button labeled "View Report" triggers the BMI calculation function.
 Labels are used to display the calculated BMI value, the BMI category (e.g., Underweight, Normal, Overweight, Obese), and a description of the BMI category.
+
 Main Loop:
 
 Starts the main event loop to run the Tkinter application.
